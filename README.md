@@ -3,7 +3,7 @@
 Netlify Live Link: ass9-bookworm-by-zahidul-islam.netlify.app
 
 ## About this project
-### This is basically a educational site where student can see others Q/A and teacher's feedback in comment section though some features is not designed yet. It will be done later. I just build a interface of my project idea. 
+### This is basically a educational site where student can see others Q/A and teacher's feedback in comment section though some features is not designed yet. It will be done later. I just build a interface of my project idea. Teacher can posts about any topic for students, can write blog and anyone can work here as a mentor. Here, students can learn by themselves watching our tutorials. 
 ### Full responsive
 
 # Technology used:
