@@ -1,0 +1,9 @@
+.contact-header{
+    margin-top: 20px;
+}
+.contact-form{
+    margin: 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

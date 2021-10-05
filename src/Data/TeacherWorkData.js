@@ -1,0 +1,50 @@
+const teacherWorkData = [
+    {
+        id: "t0",
+        teacher_name: "Md. Anisul",
+        posts_title: "React routing",
+        description: "Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies.",
+        total_posts: 12,
+        total_review: 11,
+    },
+    {
+        id: "t1",
+        teacher_name: "Sumit",
+        posts_title: "Context API",
+        description: "Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies.",
+        total_posts: 12,
+        total_review: 11,
+    },
+    {
+        id: "t2",
+        teacher_name: "Giash",
+        posts_title: "React Bootstrap",
+        description: "Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies.",
+        total_posts: 12,
+        total_review: 11,
+    },
+    {
+        id: "t3",
+        teacher_name: "Md. Sharif",
+        posts_title: "MongoDB",
+        description: "MongoDB Atlas makes it easy to control access to your database. Your database instances are deployed in a unique Virtual Private Cloud (VPC) to ensure network isolation.",
+        total_posts: 12,
+        total_review: 11,
+    },
+    {
+        id: "t4",
+        teacher_name: "Md.Zaman",
+        posts_title: "React Redux",
+        description: "Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies.",
+        total_posts: 12,
+        total_review: 11,
+    },
+    {
+        id: "t5",
+        teacher_name: "Mostafijur Rahman",
+        posts_title: "Node JS",
+        description: "Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies.",
+        total_posts: 12,
+        total_review: 11,
+    }
+]

@@ -1,0 +1,22 @@
+h1{
+    color: #212529;
+    margin-bottom: 50px;
+}
+.work-thumb{
+    border: 1px solid rgba(0, 0, 0, 0.336);
+    height: 400px;
+    width: 350px;
+    margin: 10px;
+    border-radius: 8px;
+}
+.work-thumb:hover{
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.dept-selection{
+    margin-top: 10px;
+}
+.work-btn{
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+}

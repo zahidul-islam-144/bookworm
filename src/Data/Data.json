@@ -1,0 +1,344 @@
+[
+  {
+    "id": 0,
+    "service_title": "Are you a Student ?",
+    "service_img": "https://www.kindpng.com/picc/m/56-565073_student-malefemale-student-portal-logo-png-transparent-png.png",
+    "text": "Please, join our public community...",
+    "services": {
+      "student": [
+        {
+          "id": 0,
+          "topic_name": "Tense",
+          "question": "How many tenses are there?",
+          "answer": "There are four kinds of tenses ans each of them have four sub-division of tenses.",
+          "likes": 12,
+          "dislikes": 3,
+          "comments": 10
+        },
+        {
+          "id": 1,
+          "topic_name": "Tense-1",
+          "question": "How many tenses are there?",
+          "answer": "There are four kinds of tenses ans each of them have four sub-division of tenses.",
+          "likes": 12,
+          "dislikes": 3,
+          "comments": 10,
+          "teacher_name": "Anthony Marker"
+        },
+        {
+          "id": 2,
+          "topic_name": "Tense-2",
+          "question": "How many tenses are there?",
+          "answer": "There are four kinds of tenses ans each of them have four sub-division of tenses.",
+          "likes": 12,
+          "dislikes": 3,
+          "comments": 10,
+          "teacher_name": "Anthony Marker"
+        }
+      ],
+      "teacher": [
+        {
+          "id": 0,
+          "teacher_name": "abc-0",
+          "posts_title": "Grammar exercise",
+          "description": "Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies.",
+          "total_posts": 12,
+          "total_review": 11
+        },
+        {
+          "id": 1,
+          "teacher_name": "abc-1",
+          "posts_title": "Grammar exercise",
+          "description": "Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies.",
+          "total_posts": 12,
+          "total_review": 11
+        },
+        {
+          "id": 2,
+          "teacher_name": "abc-2",
+          "posts_title": "Grammar exercise",
+          "description": "Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies.",
+          "total_posts": 12,
+          "total_review": 11
+        }
+      ]
+    },
+    "tutorials": [
+      {
+        "id": 0,
+        "tutorials_title": "React-0",
+        "mentor": "ABC",
+        "duration": "2 hours",
+        "tutorials_banner": "..."
+      },
+      {
+        "id": 1,
+        "tutorials_title": "React-1",
+        "mentor": "ABC",
+        "duration": "2 hours",
+        "tutorials_banner": "..."
+      },
+      {
+        "id": 2,
+        "tutorials_title": "React-2",
+        "mentor": "ABC",
+        "duration": "2 hours",
+        "tutorials_banner": "..."
+      }
+    ],
+    "work": [
+      {
+        "id": 0,
+        "email": "abc@gmail.com",
+        "contact_address": "aaabbb",
+        "department": "CSE",
+        "Country": "Bangladesh",
+        "field_title": "web development"
+      },
+      {
+        "id": 2,
+        "email": "abc@gmail.com",
+        "contact_address": "aaabbb",
+        "department": "CSE",
+        "Country": "Bangladesh",
+        "field_title": "web development"
+      },
+      {
+        "id": 2,
+        "email": "abc@gmail.com",
+        "contact_address": "aaabbb",
+        "department": "CSE",
+        "Country": "Bangladesh",
+        "field_title": "web development"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "service_title": "Are you a Teacher ?",
+    "service_img": "https://www.pngfind.com/pngs/m/114-1147572_teacher-black-logo-png-transparent-png.png",
+    "text": "Please, join our private community...",
+    "services": {
+      "student": [
+        {
+          "id": 0,
+          "topic_name": "Tense",
+          "question": "How many tenses are there?",
+          "answer": "There are four kinds of tenses ans each of them have four sub-division of tenses.",
+          "likes": 12,
+          "dislikes": 3,
+          "comments": 10
+        },
+        {
+          "id": 1,
+          "topic_name": "Tense-1",
+          "question": "How many tenses are there?",
+          "answer": "There are four kinds of tenses ans each of them have four sub-division of tenses.",
+          "likes": 12,
+          "dislikes": 3,
+          "comments": 10,
+          "teacher_name": "Anthony Marker"
+        },
+        {
+          "id": 2,
+          "topic_name": "Tense-2",
+          "question": "How many tenses are there?",
+          "answer": "There are four kinds of tenses ans each of them have four sub-division of tenses.",
+          "likes": 12,
+          "dislikes": 3,
+          "comments": 10,
+          "teacher_name": "Anthony Marker"
+        }
+      ],
+      "teacher": [
+        {
+          "id": 0,
+          "teacher_name": "abc-0",
+          "posts_title": "Grammar exercise",
+          "description": "Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies.",
+          "total_posts": 12,
+          "total_review": 11
+        },
+        {
+          "id": 1,
+          "teacher_name": "abc-1",
+          "posts_title": "Grammar exercise",
+          "description": "Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies.",
+          "total_posts": 12,
+          "total_review": 11
+        },
+        {
+          "id": 2,
+          "teacher_name": "abc-2",
+          "posts_title": "Grammar exercise",
+          "description": "Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies.",
+          "total_posts": 12,
+          "total_review": 11
+        }
+      ]
+    },
+    "tutorials": [
+      {
+        "id": 0,
+        "tutorials_title": "React-0",
+        "mentor": "ABC",
+        "duration": "2 hours",
+        "tutorials_banner": "..."
+      },
+      {
+        "id": 1,
+        "tutorials_title": "React-1",
+        "mentor": "ABC",
+        "duration": "2 hours",
+        "tutorials_banner": "..."
+      },
+      {
+        "id": 2,
+        "tutorials_title": "React-2",
+        "mentor": "ABC",
+        "duration": "2 hours",
+        "tutorials_banner": "..."
+      }
+    ],
+    "work": [
+      {
+        "id": 0,
+        "email": "abc@gmail.com",
+        "contact_address": "aaabbb",
+        "department": "CSE",
+        "Country": "Bangladesh",
+        "field_title": "web development"
+      },
+      {
+        "id": 2,
+        "email": "abc@gmail.com",
+        "contact_address": "aaabbb",
+        "department": "CSE",
+        "Country": "Bangladesh",
+        "field_title": "web development"
+      },
+      {
+        "id": 2,
+        "email": "abc@gmail.com",
+        "contact_address": "aaabbb",
+        "department": "CSE",
+        "Country": "Bangladesh",
+        "field_title": "web development"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "service_title": "DO you find tutorials ?",
+    "service_img": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/07/Best_web_design_tutorials_on_the_internet_jpg_xUsjt6Kw.jpg?auto=format&q=60&w=450&h=270&fit=crop&crop=faces",
+    "text": "Then visit this page.",
+    "services": {
+      "student": [
+        {
+          "id": 0,
+          "topic_name": "Tense",
+          "question": "How many tenses are there?",
+          "answer": "There are four kinds of tenses ans each of them have four sub-division of tenses.",
+          "likes": 12,
+          "dislikes": 3,
+          "comments": 10
+        },
+        {
+          "id": 1,
+          "topic_name": "Tense-1",
+          "question": "How many tenses are there?",
+          "answer": "There are four kinds of tenses ans each of them have four sub-division of tenses.",
+          "likes": 12,
+          "dislikes": 3,
+          "comments": 10,
+          "teacher_name": "Anthony Marker"
+        },
+        {
+          "id": 2,
+          "topic_name": "Tense-2",
+          "question": "How many tenses are there?",
+          "answer": "There are four kinds of tenses ans each of them have four sub-division of tenses.",
+          "likes": 12,
+          "dislikes": 3,
+          "comments": 10,
+          "teacher_name": "Anthony Marker"
+        }
+      ],
+      "teacher": [
+        {
+          "id": 0,
+          "teacher_name": "abc-0",
+          "posts_title": "Grammar exercise",
+          "description": "Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies.",
+          "total_posts": 12,
+          "total_review": 11
+        },
+        {
+          "id": 1,
+          "teacher_name": "abc-1",
+          "posts_title": "Grammar exercise",
+          "description": "Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies.",
+          "total_posts": 12,
+          "total_review": 11
+        },
+        {
+          "id": 2,
+          "teacher_name": "abc-2",
+          "posts_title": "Grammar exercise",
+          "description": "Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies.",
+          "total_posts": 12,
+          "total_review": 11
+        }
+      ]
+    },
+    "tutorials": [
+      {
+        "id": 0,
+        "tutorials_title": "React-0",
+        "mentor": "ABC",
+        "duration": "2 hours",
+        "tutorials_banner": "..."
+      },
+      {
+        "id": 1,
+        "tutorials_title": "React-1",
+        "mentor": "ABC",
+        "duration": "2 hours",
+        "tutorials_banner": "..."
+      },
+      {
+        "id": 2,
+        "tutorials_title": "React-2",
+        "mentor": "ABC",
+        "duration": "2 hours",
+        "tutorials_banner": "..."
+      }
+    ],
+    "work": [
+      {
+        "id": 0,
+        "email": "abc@gmail.com",
+        "contact_address": "aaabbb",
+        "department": "CSE",
+        "Country": "Bangladesh",
+        "field_title": "web development"
+      },
+      {
+        "id": 2,
+        "email": "abc@gmail.com",
+        "contact_address": "aaabbb",
+        "department": "CSE",
+        "Country": "Bangladesh",
+        "field_title": "web development"
+      },
+      {
+        "id": 2,
+        "email": "abc@gmail.com",
+        "contact_address": "aaabbb",
+        "department": "CSE",
+        "Country": "Bangladesh",
+        "field_title": "web development"
+      }
+    ]
+  }
+]

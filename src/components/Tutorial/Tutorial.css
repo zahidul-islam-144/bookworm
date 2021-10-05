@@ -1,0 +1,57 @@
+.tutorial-header {
+  margin: 30px 0px;
+}
+.tutorial-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
+  align-items: center;
+}
+
+/* responsive */
+@media only screen and (min-width: 1200px) {
+  .tutorial-header {
+    margin: 30px 0px;
+  }
+  .tutorial-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .tutorial-header {
+    margin: 30px 0px;
+  }
+  .tutorial-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .tutorial-header {
+    margin: 30px 0px;
+  }
+  .tutorial-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .tutorial-header {
+    margin: 30px 0px;
+  }
+  .tutorial-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}

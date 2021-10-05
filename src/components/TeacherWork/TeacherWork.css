@@ -1,0 +1,21 @@
+.header-block{
+    margin-top: 20px;
+    display: flex;
+    justify-content:flex-end;
+}
+.title{
+    margin: 20px 0px;
+    padding: 10px 30px;
+    color: black;
+}
+.header-btn{
+    display: block;
+}
+.teacher-work-block{
+    background-color: rgba(64, 113, 206, 0.11);
+    color: black;
+    border: 1px solid rgba(0, 0, 0, 0.342);
+    margin: 10px 30px 10px 30px;
+    border-radius: 8px;
+    padding: 10px;
+}

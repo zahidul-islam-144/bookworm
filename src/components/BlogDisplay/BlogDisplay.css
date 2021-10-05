@@ -1,0 +1,8 @@
+.blog-container{
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+}
+.blog-img{
+    background-color: brown;
+}

@@ -1,0 +1,17 @@
+h1, h5{
+    color: #212529;
+}
+.teacher-thumb{
+    border: 1px solid rgba(0, 0, 0, 0.336);
+    height: 400px;
+    width: 350px;
+    margin: 10px;
+    border-radius: 8px;
+}
+.teacher-thumb:hover{
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.teacher-img{
+    height: 40%;
+    width: 60%;
+}
